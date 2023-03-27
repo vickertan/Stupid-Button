@@ -49,6 +49,10 @@ body {
     transition: 0.5s;
 }
 
+.action-box #left-button {
+    border: 0.1px solid;
+}
+
 .action-box #right-button {
     border: 0.1px solid;
 }
