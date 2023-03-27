@@ -46,7 +46,7 @@ body {
     height: 25px;
     margin: 0;
     font-size: 0.8rem;
-    transition: 0.5s;
+    transition: 0.1s;
 }
 
 .action-box #right-button {
