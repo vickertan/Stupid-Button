@@ -1,6 +1,6 @@
 const userVar = {
-    txt: "Are you dumb?",
-    txt_2: "I know you are :3",
+    txt: "Is cheese a fruit?",
+    txt_2: "Noo.. it's not :(",
     lb_value: "Yes",
     rb_value: "No",
 };
